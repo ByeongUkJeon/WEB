@@ -1,2 +1,1 @@
-# NoteBook
-Notebook at univ
+Web studying
